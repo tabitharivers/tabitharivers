@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tabitharivers
+- 👀 I’m interested in web development and a11y
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on design
+- 📫 Reach me at tabitharivers@proton.me
